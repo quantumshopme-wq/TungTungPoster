@@ -1,6 +1,6 @@
 {
-  "version": "1.0.34.3",
-  "patch_url": "https://github.com/quantumshopme-wq/TungTungPoster/releases/download/v1.0.34/TungTungPoster_v1.0.34.3_update.exe",
+  "version": "1.0.34.2",
+  "patch_url": "https://github.com/quantumshopme-wq/TungTungPoster/releases/download/v1.0.34/TungTungPoster_v1.0.34.2_update.exe",
   "full_url": "https://github.com/quantumshopme-wq/TungTungPoster/releases/download/v1.0.34/TungTungPoster_v1.0.34.2_Full_Installer.exe",
   "notes": "Perbaikan bug halaman proyek dan koneksi device yang suka terputus\nPenambahan Info Lisensi dan Addon"
 }
