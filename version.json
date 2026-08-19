@@ -1,6 +1,6 @@
 {
-  "version": "1.0.34.8",
-  "patch_url": "https://github.com/quantumshopme-wq/TungTungPoster/releases/download/v1.0.34/TungTungPoster_v1.0.34.8_update.exe",
-  "full_url": "https://github.com/quantumshopme-wq/TungTungPoster/releases/download/v1.0.34/TungTungPoster_v1.0.34.8_Full_Installer.exe",
-  "notes": ""
+  "version": "1.0.35.1",
+  "patch_url": "https://github.com/quantumshopme-wq/TungTungPoster/releases/download/v1.0.35.1/TungTungPoster_v1.0.35.1_update.exe",
+  "full_url": "https://github.com/quantumshopme-wq/TungTungPoster/releases/download/v1.0.35.1/TungTungPoster_v1.0.35.1_Full_Installer.exe",
+  "notes": "- Generate Video Bulk Google Flow API Dengan Rotasi Cookie (Super Ngebut Generate Videonya)\n- Auto Off Layar HP setelah proyek selesai (menjaga kesehatan HP uploader)\n- Pengaman double untuk Label Ai agar tidak di skip"
 }
