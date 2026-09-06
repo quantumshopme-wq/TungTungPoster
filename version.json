@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0.1",
-  "patch_url": "https://github.com/quantumshopme-wq/TungTungPoster/releases/download/v1.1.0.1/TungTungPoster_v1.1.0.1_update.exee",
-  "full_url": "https://github.com/quantumshopme-wq/TungTungPoster/releases/download/v1.1.0.1/TungTungPoster_v1.1.0.1_Full_Installer.exe",
+  "version": "1.1.0.2",
+  "patch_url": "https://github.com/quantumshopme-wq/TungTungPoster/releases/download/v1.1.0.2/TungTungPoster_v1.1.0.2_update.exe",
+  "full_url": "https://github.com/quantumshopme-wq/TungTungPoster/releases/download/v1.1.0.2/TungTungPoster_v1.1.0.2_Full_Installer.exe",
   "notes": "- Perbaikan bug browser"
 }
